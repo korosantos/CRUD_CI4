@@ -1,0 +1,7 @@
+img {
+  width: 125px;
+}
+
+.table-bordered tbody tr td {
+  vertical-align: middle;
+}
